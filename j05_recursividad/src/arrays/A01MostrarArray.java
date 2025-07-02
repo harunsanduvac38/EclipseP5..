@@ -3,6 +3,7 @@ package arrays;
 
 
 
+
 public class A01MostrarArray {
 	
 	public static void mostrarArray(int num) {
